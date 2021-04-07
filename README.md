@@ -5,7 +5,7 @@
 # Main 4 Courses of this Specialization 
 |Course|Done✅|Not YET⏳|Link 🔗|
 |-|-|-|-|
-|__Course 1: SQL for Data Science__ |✅|-|[🌐]()|
+|__Course 1: SQL for Data Science__ |✅|-|[🌐 Course1](https://github.com/ayoub-berdeddouch/Learn_SQL_Basics_4_DataScience_Spec/tree/main/SQL_4_DataScience)|
 |__Course 2: Data Wrangling, Analysis and AB Testing with SQL__|-|⏳|[🌐]()|
 |__Course 3: Distributed Computing with Spark SQL__|-|⏳|[🌐]()|
 |__Course 4: SQL for Data Science Capstone Project__|-|⏳|[🌐]()|
